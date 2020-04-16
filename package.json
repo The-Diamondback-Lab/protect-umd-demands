@@ -1,0 +1,16 @@
+{
+  "name": "protect-umd-demands",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/The-Diamondback-Lab/protect-umd-demands.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/The-Diamondback-Lab/protect-umd-demands/issues"
+  }
+}
